@@ -12,4 +12,4 @@ This program promts for a name to save the encodings and takes in the camera fee
 This simply works like a camera with feature of identifying the people in the camera if they have already saved their encodings using the previous program.
 
 #### Note
-Make sure you download the haarcascade_frontalface_alt.xml file along with the model from the this [link]
+Make sure you download the haarcascade_frontalface_alt.xml file along with the model from the this [link](https://drive.google.com/drive/folders/1-n-_uJISARomEVbSLCacItyl1oImzCTq?usp=sharing)
